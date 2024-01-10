@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+
+
 <!--
 **satindercj/satindercj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
