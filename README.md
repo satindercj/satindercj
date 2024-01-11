@@ -11,6 +11,7 @@ I'm a software developer who's all about turning tricky problems into user-frien
 <a href="https://www.instagram.com/satindercj/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=satindercj&color=FAC151)
 
 ---
