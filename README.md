@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm a software developer who's all about turning tricky problems into user-friendly, cool applications. I love keeping things innovative and staying on top of the latest in the tech world. Let's craft something awesome together!
+I'm a software developer who's all about turning tricky problems into user-friendly, cool applications. With a solid background in the industry, I thrive on crafting innovative solutions and learning the latest technologies! Let's collaborate and create something remarkable!
 
 ### Connect with me! 🤙
 <a href="https://www.linkedin.com/in/satinderjit-dhaliwal-639811132/">
